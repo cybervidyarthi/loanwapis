@@ -1,0 +1,11 @@
+
+bin/*
+obj/*
+*.dll
+*.pdb
+*.targets
+*.props
+*.cache
+.vs/xwapi/v16/.suo
+.vs/xwapi/config/applicationhost.config
+.vs/LoanWAPIs/v16/.suo
